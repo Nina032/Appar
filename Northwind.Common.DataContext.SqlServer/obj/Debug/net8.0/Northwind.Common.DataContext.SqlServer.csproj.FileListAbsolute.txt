@@ -1,0 +1,16 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.AssemblyReference.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.csproj.CopyComplete
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\refint\Northwind.Common.DataContext.SqlServer.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Common.DataContext.SqlServer\obj\Debug\net8.0\ref\Northwind.Common.DataContext.SqlServer.dll

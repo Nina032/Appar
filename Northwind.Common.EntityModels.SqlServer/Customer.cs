@@ -15,9 +15,12 @@ public partial class Customer
     [Key]
     [Column("CustomerID")]
     [StringLength(5)]
+    [RegularExpression("[A-Z]{5}")]
+    [Required]
     public string CustomerId { get; set; } = null!;
 
     [StringLength(40)]
+    [Required]
     public string CompanyName { get; set; } = null!;
 
     [StringLength(30)]
