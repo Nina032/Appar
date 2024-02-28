@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "KtM08zrHZ8Q/0wzrgb8JxVqvLOELYXqFXTbqxu+N3D0=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\index.html",
+      "SourceId": "Northwind.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
