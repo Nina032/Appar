@@ -7,9 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.EntityMode
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.DataContext.SqlServer", "..\Northwind.Common.DataContext.SqlServer\Northwind.Common.DataContext.SqlServer.csproj", "{05F074D3-7CC1-4C42-B1BF-6BE4183AD9C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Common.UnitTestsXUnit", "..\Northwind.Common.UnitTestsXUnit\Northwind.Common.UnitTestsXUnit.csproj", "{7E37FD57-C7CB-4BBA-B175-B45AD94598FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Common.UnitTestsXUnit", "..\Northwind.Common.UnitTestsXUnit\Northwind.Common.UnitTestsXUnit.csproj", "{7E37FD57-C7CB-4BBA-B175-B45AD94598FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Web", "..\Northwind.Web\Northwind.Web.csproj", "{E2498653-7F37-40F3-A4DC-04401F2F8391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Web", "..\Northwind.Web\Northwind.Web.csproj", "{E2498653-7F37-40F3-A4DC-04401F2F8391}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
