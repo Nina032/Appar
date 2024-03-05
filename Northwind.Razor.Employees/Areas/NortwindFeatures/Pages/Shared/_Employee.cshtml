@@ -1,0 +1,14 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model Northwind.Shared.Employee
+@{
+}
+
+<div class="card border-dark mb-3" style="max-width: 18rem;">
+    <div class="card-header"> @Model?.LastName, @Model?.FirstName </div>
+    <div class="card-body text-dark">
+        <h5 class="card-title">@Model?.Country</h5>
+        <p class="card-text">@Model?.Notes</p>
+    </div>
+</div>

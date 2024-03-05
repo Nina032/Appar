@@ -1012,6 +1012,22 @@
         "runtime": {
           "bin/placeholder/Northwind.Common.EntityModels.SqlServer.dll": {}
         }
+      },
+      "Northwind.Razor.Employees/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Northwind.Common.DataContext.SqlServer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Northwind.Razor.Employees.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Northwind.Razor.Employees.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -2757,11 +2773,17 @@
       "type": "project",
       "path": "../Northwind.Common.EntityModels.SqlServer/Northwind.Common.EntityModels.SqlServer.csproj",
       "msbuildProject": "../Northwind.Common.EntityModels.SqlServer/Northwind.Common.EntityModels.SqlServer.csproj"
+    },
+    "Northwind.Razor.Employees/1.0.0": {
+      "type": "project",
+      "path": "../Northwind.Razor.Employees/Northwind.Razor.Employees.csproj",
+      "msbuildProject": "../Northwind.Razor.Employees/Northwind.Razor.Employees.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Northwind.Common.DataContext.SqlServer >= 1.0.0"
+      "Northwind.Common.DataContext.SqlServer >= 1.0.0",
+      "Northwind.Razor.Employees >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2799,6 +2821,9 @@
           "projectReferences": {
             "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj": {
               "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj"
+            },
+            "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj": {
+              "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj"
             }
           }
         }

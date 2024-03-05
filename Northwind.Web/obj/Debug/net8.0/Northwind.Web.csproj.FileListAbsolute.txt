@@ -71,3 +71,6 @@ D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Programmerin
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\obj\Debug\net8.0\Northwind.Web.csproj.AssemblyReference.cache
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\obj\Debug\net8.0\Northwind.Web.csproj.CopyComplete
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\bin\Debug\net8.0\Northwind.Razor.Employees.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\bin\Debug\net8.0\Northwind.Razor.Employees.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Web\obj\Debug\net8.0\Northwind.Web.MvcApplicationPartsAssemblyInfo.cs

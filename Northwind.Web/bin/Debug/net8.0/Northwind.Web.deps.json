@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v8.0": {
       "Northwind.Web/1.0.0": {
         "dependencies": {
-          "Northwind.Common.DataContext.SqlServer": "1.0.0"
+          "Northwind.Common.DataContext.SqlServer": "1.0.0",
+          "Northwind.Razor.Employees": "1.0.0"
         },
         "runtime": {
           "Northwind.Web.dll": {}
@@ -518,6 +519,14 @@
         "runtime": {
           "Northwind.Common.EntityModels.SqlServer.dll": {}
         }
+      },
+      "Northwind.Razor.Employees/1.0.0": {
+        "dependencies": {
+          "Northwind.Common.DataContext.SqlServer": "1.0.0"
+        },
+        "runtime": {
+          "Northwind.Razor.Employees.dll": {}
+        }
       }
     }
   },
@@ -918,6 +927,11 @@
       "sha512": ""
     },
     "Northwind.Common.EntityModels.SqlServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Northwind.Razor.Employees/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
