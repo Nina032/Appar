@@ -9,51 +9,59 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Northwind.Mvc
 build_property.RootNamespace = Northwind.Mvc
-build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Mvc\
+build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Mvc
+build_property.MSBuildProjectDirectory = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Home/Index.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Home/Privacy.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Home/ModelBinding.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNb2RlbEJpbmRpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Shared/Error.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Home/ProductDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0RGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Shared/_Layout1.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Shared/_Layout1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Shared/_LoginPartial.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/_ViewImports.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/_ViewStart.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Mvc/Views/Shared/_Layout.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3d27gd9yot

@@ -4574,11 +4574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "projectName": "Northwind.Mvc",
-      "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Mvc\\Northwind.Mvc.csproj",
+      "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Mvc\\Northwind.Mvc.csproj",
       "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Mvc\\obj\\",
+      "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Mvc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\VisualStudioCommunity\\Shared\\NuGetPackages"
@@ -4600,8 +4600,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj": {
-              "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj"
+            "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj": {
+              "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.DataContext.SqlServer\\Northwind.Common.DataContext.SqlServer.csproj"
             }
           }
         }

@@ -9,23 +9,23 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Northwind.Razor.Employees
 build_property.RootNamespace = Northwind.Razor.Employees
-build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Razor.Employees\
+build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Razor.Employees\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\Northwind.Razor.Employees
+build_property.MSBuildProjectDirectory = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Razor.Employees
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/Employees.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/Employees.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTm9ydHdpbmRGZWF0dXJlc1xQYWdlc1xFbXBsb3llZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/Shared/_Employee.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/Shared/_Employee.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTm9ydHdpbmRGZWF0dXJlc1xQYWdlc1xTaGFyZWRcX0VtcGxveWVlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/ProgrammeringFordjupningC-sharp/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/_ViewStart.cshtml]
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Razor.Employees/Areas/NortwindFeatures/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTm9ydHdpbmRGZWF0dXJlc1xQYWdlc1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a2nXudE9SyPmn5+0Je0pcr96QlQhKytX/65lDKVMetl1aM0N6Xu1FkKQMpmRZsNR6v088WkpnZMnRGvjnBqmIw==",
+  "dgSpecHash": "lU5vY7vH+aYzHF2O8jrLm+B1iBSQC6PJ7VKFCWxow0WsYko11qLkfdqAPAOT9wc7QAeOQFZprBom8VwYOaZzfA==",
   "success": true,
-  "projectFilePath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
+  "projectFilePath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.EntityModels.SqlServer\\Northwind.Common.EntityModels.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nevena\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nevena\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

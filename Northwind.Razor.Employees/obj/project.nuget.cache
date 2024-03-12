@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O4tdA6v7q+Y/L13nZTVqt6KE8K84zrkdNaztyUZmvNhyBsVRnJXhUIalYPdESEMxsHjhPnpCOsBjORsm8X4Aeg==",
+  "dgSpecHash": "8QO8507RgLQbkMJMG2oiMAYilrzsV69XFccpp81QlXswY0UeTxx+u8o3qazj1mQkliFmRdbbjXy9RjQXGDmJhg==",
   "success": true,
-  "projectFilePath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+  "projectFilePath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nevena\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Nevena\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
