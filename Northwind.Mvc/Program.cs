@@ -16,6 +16,7 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddRoles<IdentityRole>()   //enable role management
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 
@@ -29,6 +30,12 @@ else
 {
     builder.Services.AddNorthwindContext(sqlServerConnection);
 }
+
+builder.Services.AddOutputCache(options =>
+{
+    options.DefaultExpirationTimeSpan = TimeSpan.FromSeconds(10);
+});
+
 
 var app = builder.Build();
 
@@ -52,10 +59,17 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+app.UseOutputCache();
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}").CacheOutput();
+
 app.MapRazorPages();
+
+app.MapGet("/notcached", () => DateTime.Now.ToString());
+
+app.MapGet("/cached", () => DateTime.Now.ToString()).CacheOutput();
 
 //Section 4 - start the host web server listening for HTTP request
 app.Run(); //blocking call

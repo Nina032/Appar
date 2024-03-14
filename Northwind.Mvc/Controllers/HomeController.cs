@@ -19,6 +19,9 @@ namespace Northwind.Mvc.Controllers
             db = injectedContext;
         }
 
+        [ResponseCache(Duration = 10/*seconds*/, 
+            Location = ResponseCacheLocation.Any)]
+
         public IActionResult Index()
         {
             _logger.LogError("This is a serious error");
@@ -35,7 +38,8 @@ namespace Northwind.Mvc.Controllers
 
             return View(model); //pass model to view
         }
-        [Authorize(Roles ="Administrators")]
+        [Route("private")]
+        [Authorize(Roles = "Administrators")]
         public IActionResult Privacy()
         {
             return View();
