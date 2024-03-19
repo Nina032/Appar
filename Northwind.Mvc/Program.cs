@@ -34,6 +34,7 @@ else
 builder.Services.AddOutputCache(options =>
 {
     options.DefaultExpirationTimeSpan = TimeSpan.FromSeconds(10);
+    options.AddPolicy("views", p => p.SetVaryByQuery(""));
 });
 
 
@@ -63,7 +64,7 @@ app.UseOutputCache();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}").CacheOutput();
+    pattern: "{controller=Home}/{action=Index}/{id?}").CacheOutput("views");
 
 app.MapRazorPages();
 

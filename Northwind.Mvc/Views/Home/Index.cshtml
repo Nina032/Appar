@@ -77,6 +77,13 @@
         <p class="lead">
             We have had @Model?.VisitorCount visitors this month.
         </p>
+
+        <h3>Query products by price</h3>
+        <form asp-action="ProductsThatCostMoreThan" method="get">
+            <input name="price" placeholder="Enter a product price" />
+            <input type="submit" />
+        </form>
+
         @if (Model is not null)
         {
             <h2>Products</h2>
