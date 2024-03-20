@@ -1,0 +1,16 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Blazor.Services.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\refint\Northwind.Blazor.Services.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\ref\Northwind.Blazor.Services.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.csproj.AssemblyReference.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor.Services\obj\Debug\net8.0\Northwind.Blazor.Services.csproj.CopyComplete

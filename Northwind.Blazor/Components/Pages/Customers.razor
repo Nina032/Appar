@@ -1,0 +1,12 @@
+﻿@page "/customers/{country?}"
+
+<h3>
+    Customers @(string.IsNullOrWhiteSpace(Country) 
+    ? "Worldwide" : "in " + Country)
+    
+</h3>
+
+@code {
+    [Parameter]
+    public string? Country { get; set; }
+}

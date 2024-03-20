@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northwind.Common.UnitTestsXUnit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78f517e9ed6e6157f34eebe16f6a9fb5bf215b96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15536f582805097fa42a795ccd3615d583a34140")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northwind.Common.UnitTestsXUnit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northwind.Common.UnitTestsXUnit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
