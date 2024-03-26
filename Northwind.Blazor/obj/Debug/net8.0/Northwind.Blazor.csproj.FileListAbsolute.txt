@@ -71,6 +71,6 @@ D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\bin\Debug\net8.0\Northwind.Common.DataContext.SqlServer.pdb
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\bin\Debug\net8.0\Northwind.Common.EntityModels.SqlServer.pdb
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\obj\Debug\net8.0\Northwind.Blazor.csproj.AssemblyReference.cache
-D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\obj\Debug\net8.0\Northwind.Blazor.csproj.CopyComplete
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\bin\Debug\net8.0\Northwind.Blazor.Services.dll
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\bin\Debug\net8.0\Northwind.Blazor.Services.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Blazor\obj\Debug\net8.0\Northwin.51440AF2.Up2Date

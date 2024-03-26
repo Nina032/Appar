@@ -22,8 +22,24 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/CustomerDetail.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21lckRldGFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/Pages/CreateCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDcmVhdGVDdXN0b21lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/Pages/Customers.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDdXN0b21lcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/Pages/DeleteCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWxldGVDdXN0b21lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/Pages/EditCustomer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFZGl0Q3VzdG9tZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/repos/OvningarC-sharpFordjupning/ProgrammeringFordjupningC-sharp/Appar/Appar/Northwind.Blazor/Components/Pages/Error.razor]

@@ -17,7 +17,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Mvc", "..\Northwi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Blazor", "..\Northwind.Blazor\Northwind.Blazor.csproj", "{442E69EC-7EB8-4327-A71E-43F4003F031D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Northwind.Blazor.Services", "..\Northwind.Blazor.Services\Northwind.Blazor.Services.csproj", "{05F880E6-FBF9-4B2C-8E37-1567AFBC46E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Northwind.Blazor.Services", "..\Northwind.Blazor.Services\Northwind.Blazor.Services.csproj", "{05F880E6-FBF9-4B2C-8E37-1567AFBC46E1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
