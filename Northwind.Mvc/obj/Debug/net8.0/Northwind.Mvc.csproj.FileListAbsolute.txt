@@ -294,9 +294,9 @@ D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\scopedcss\bundle\Northwind.Mvc.styles.css
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\scopedcss\projectbundle\Northwind.Mvc.bundle.scp.css
-D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\Northwind.Mvc.csproj.CopyComplete
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\Northwind.Mvc.dll
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\refint\Northwind.Mvc.dll
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\Northwind.Mvc.pdb
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\Northwind.Mvc.genruntimeconfig.cache
 D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\ref\Northwind.Mvc.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Appar\Appar\Northwind.Mvc\obj\Debug\net8.0\Northwin.F6660AAF.Up2Date

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "Dtf7LhNu4k0vYn5DbUkJBE+I+9HtgivNS/3ra2h6vqQ=",
+  "Hash": "6vaeQA7/v2zUSQWXgp4CDVYAMHPIzUy/21d/Bo16tyw=",
   "Source": "Northwind.Web",
   "BasePath": "_content/Northwind.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
+      "Identity": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Razor.Employees\\Northwind.Razor.Employees.csproj",
       "Version": 2,
       "Source": "Northwind.Razor.Employees",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "Northwind.Web\\wwwroot",
       "Source": "Northwind.Web",
-      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Web\\wwwroot\\",
       "BasePath": "_content/Northwind.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\index.html",
+      "Identity": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Web\\wwwroot\\index.html",
       "SourceId": "Northwind.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\Northwind.Web\\wwwroot\\",
+      "ContentRoot": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Web\\wwwroot\\",
       "BasePath": "_content/Northwind.Web",
       "RelativePath": "index.html",
       "AssetKind": "All",
