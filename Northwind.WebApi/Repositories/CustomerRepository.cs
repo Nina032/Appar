@@ -60,7 +60,7 @@ namespace Northwind.WebApi.Repositories
             return _db.Customers.ToArrayAsync();
         }
 
-        public Task<Customer?> RetrieveAync(string id)
+        public Task<Customer?> RetrieveAsync(string id)
         {
             id = id.ToUpper();
             //Kolla om vi har cache först
