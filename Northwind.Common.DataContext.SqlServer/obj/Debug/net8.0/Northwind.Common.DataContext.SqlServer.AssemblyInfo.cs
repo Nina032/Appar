@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Northwind.Common.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02222019eb92bcea1b8ef01d352dbabc111100b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7fc62994c3513ed83f5bfa1f77eff7738d5e1a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Northwind.Common.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Northwind.Common.DataContext.SqlServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

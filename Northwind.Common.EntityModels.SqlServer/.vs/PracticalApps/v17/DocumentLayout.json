@@ -3,26 +3,20 @@
   "WorkspaceRootPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.EntityModels.SqlServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3168C249-3A06-468B-A1FA-996EDA766E70}|..\\Northwind.Blazor.Wasm\\Northwind.Blazor.Wasm.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.blazor.wasm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3168C249-3A06-468B-A1FA-996EDA766E70}|..\\Northwind.Blazor.Wasm\\Northwind.Blazor.Wasm.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.blazor.wasm\\services\\northwindserviceclientside.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{345DCD90-CE6A-4D71-8564-50F7F8AB3428}|Northwind.Common.EntityModels.SqlServer.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.common.entitymodels.sqlserver\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{345DCD90-CE6A-4D71-8564-50F7F8AB3428}|Northwind.Common.EntityModels.SqlServer.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{442E69EC-7EB8-4327-A71E-43F4003F031D}|..\\Northwind.Blazor\\Northwind.Blazor.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.blazor\\components\\pages\\createcustomer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{442E69EC-7EB8-4327-A71E-43F4003F031D}|..\\Northwind.Blazor\\Northwind.Blazor.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.blazor\\components\\customerdetail.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{53FC6100-232E-4968-9F33-9E51E31CABE8}|..\\Northwind.WebApi\\Northwind.WebApi.csproj|d:\\repos\\ovningarc-sharpfordjupning\\programmeringfordjupningc-sharp\\appar\\appar\\northwind.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -34,21 +28,33 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 108,
+          "DockedHeight": 305,
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Program.cs",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Program.cs",
-              "RelativeToolTip": "..\\Northwind.WebApi\\Program.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Northwind.Blazor.Wasm\\Program.cs",
+              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\Program.cs",
+              "RelativeToolTip": "..\\Northwind.Blazor.Wasm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:00:22.021Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-04-04T15:17:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NorthwindServiceClientSide.cs",
+              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\Services\\NorthwindServiceClientSide.cs",
+              "RelativeDocumentMoniker": "..\\Northwind.Blazor.Wasm\\Services\\NorthwindServiceClientSide.cs",
+              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\Services\\NorthwindServiceClientSide.cs",
+              "RelativeToolTip": "..\\Northwind.Blazor.Wasm\\Services\\NorthwindServiceClientSide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:15:11.375Z",
               "EditorCaption": ""
             },
             {
@@ -80,93 +86,56 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\appsettings.Development.json",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\appsettings.Development.json",
-              "RelativeToolTip": "..\\Northwind.WebApi\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-28T13:35:00.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.EntityModels.SqlServer\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Common.EntityModels.SqlServer\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAADUAAAAhAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAswBYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-28T11:55:10.386Z"
+              "WhenOpened": "2024-04-04T15:10:42.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Controllers\\CustomersController.cs",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "..\\Northwind.WebApi\\Controllers\\CustomersController.cs",
-              "ViewState": "AQIAAGYAAAAAAAAAAAA7wGEAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T10:43:05.042Z",
+              "DocumentIndex": 3,
+              "Title": "CreateCustomer.razor",
+              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor\\Components\\Pages\\CreateCustomer.razor",
+              "RelativeDocumentMoniker": "..\\Northwind.Blazor\\Components\\Pages\\CreateCustomer.razor",
+              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor\\Components\\Pages\\CreateCustomer.razor",
+              "RelativeToolTip": "..\\Northwind.Blazor\\Components\\Pages\\CreateCustomer.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T14:53:14.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ICustomerRepository.cs",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Repositories\\ICustomerRepository.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Repositories\\ICustomerRepository.cs",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Repositories\\ICustomerRepository.cs",
-              "RelativeToolTip": "..\\Northwind.WebApi\\Repositories\\ICustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:36:36.222Z"
+              "Title": "CustomerDetail.razor",
+              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor\\Components\\CustomerDetail.razor",
+              "RelativeDocumentMoniker": "..\\Northwind.Blazor\\Components\\CustomerDetail.razor",
+              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor\\Components\\CustomerDetail.razor",
+              "RelativeToolTip": "..\\Northwind.Blazor\\Components\\CustomerDetail.razor",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T14:51:34.564Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CustomerRepository.cs",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Repositories\\CustomerRepository.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Repositories\\CustomerRepository.cs",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Repositories\\CustomerRepository.cs",
-              "RelativeToolTip": "..\\Northwind.WebApi\\Repositories\\CustomerRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T09:35:42.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "..\\Northwind.WebApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBsAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T08:25:10.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "..\\Northwind.WebApi\\Properties\\launchSettings.json",
               "ToolTip": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.WebApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "..\\Northwind.WebApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAABgAAAAAAAAAAAAIwB0AAAAHAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-27T08:35:58.741Z"
+              "WhenOpened": "2024-04-04T14:30:37.918Z",
+              "EditorCaption": ""
             }
           ]
         }

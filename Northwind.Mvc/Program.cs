@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Identity; //IdentityUser
 using Microsoft.EntityFrameworkCore; //UseSqlServer, UseSqlite
 using Northwind.Mvc.Data;
 using Northwind.Common.DataContext.SqlServer;   //ApplicationDbContext
+using System.Net.Http.Headers;
 
 //Section 2 - configure the host web server including services
 var builder = WebApplication.CreateBuilder(args);
@@ -36,6 +37,15 @@ builder.Services.AddOutputCache(options =>
     options.DefaultExpirationTimeSpan = TimeSpan.FromSeconds(10);
     options.AddPolicy("views", p => p.SetVaryByQuery(""));
 });
+
+builder.Services.AddHttpClient(name: "Northwind.WebApi",
+    configureClient: options =>
+    {
+        options.BaseAddress = new Uri("https://localhost:5151/");
+        options.DefaultRequestHeaders.Accept.Add(
+            new MediaTypeWithQualityHeaderValue(
+                mediaType: "application/json", quality: 1.0));
+    });
 
 
 var app = builder.Build();

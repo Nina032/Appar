@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\obj\\Debug\\net8.0\\compressed\\0obqa1zawe.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Northwind.Blazor.Wasm.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Northwind.Blazor.Wasm.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\Appar\\Appar\\Northwind.Blazor.Wasm\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Northwind.Blazor.Wasm.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Northwind.Blazor.Wasm.props",
+      "PackagePath": "build\\Northwind.Blazor.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Northwind.Blazor.Wasm.props",
+      "PackagePath": "buildMultiTargeting\\Northwind.Blazor.Wasm.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Northwind.Blazor.Wasm.props",
+      "PackagePath": "buildTransitive\\Northwind.Blazor.Wasm.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

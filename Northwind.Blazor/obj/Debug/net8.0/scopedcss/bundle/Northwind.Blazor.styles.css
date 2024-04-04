@@ -1,3 +1,5 @@
+@import 'Northwind.Blazor.Wasm.bundle.scp.css';
+
 /* _content/Northwind.Blazor/Components/Layout/MainLayout.razor.rz.scp.css */
 .page[b-mgfpnrwe01] {
     position: relative;
